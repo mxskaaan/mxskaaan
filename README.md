@@ -5,10 +5,15 @@
   💻 Aspiring Developer | 📊 Data Analyst | 🚀 Builder
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mxskaaan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
 ---
 
 ## 🚀 About Me
-- 💻 Aspiring Developer & Data Analyst    
+- 💻 Aspiring Developer & Data Analyst  
+- 📊 Working on Blinkit Analytics Dashboard  
 - 🏢 Currently working in **MK DIGITAL NETWORK** (Cable & Internet Business)  
 - 🌱 Learning Web Development & Data Engineering  
 
