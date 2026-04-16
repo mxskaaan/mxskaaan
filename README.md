@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muskan Kumari</h1>
+<h3 align="center">B.S in Computer Science & Data Analytics (2024–2028)</h3>
 
-<!--
-**mxskaaan/mxskaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Aspiring Developer & Data Analyst  
+- 📊 Working on Blinkit Dashboard  
+- 🌱 Learning Web Dev & Data Engineering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sql,html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=mxskaaan&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Contribution Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=mxskaaan&theme=react-dark)
